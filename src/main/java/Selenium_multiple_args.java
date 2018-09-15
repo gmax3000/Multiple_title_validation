@@ -40,6 +40,6 @@ public class Selenium_multiple_args {
 			
 		}
 	
-		driver.quit();
+		driver.quit();//test
 	}
 }
